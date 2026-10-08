@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|solutionrelative:korblox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|solutionrelative:korblox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Korblox\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Korblox\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:51:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Korblox\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Korblox\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T14:51:03.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
