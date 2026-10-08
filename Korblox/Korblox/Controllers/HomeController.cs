@@ -15,6 +15,10 @@ namespace Korblox.Controllers
         {
             return View();
         }
+        public IActionResult prof()
+        {
+            return View();
+        }
         public IActionResult Test()
         {
             return View();

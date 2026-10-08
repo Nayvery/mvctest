@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|solutionrelative:korblox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|solutionrelative:korblox\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47AAE87C-7FFD-4505-B72A-B8C6734F5BCE}|Korblox\\Korblox.csproj|solutionrelative:korblox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|solutionrelative:korblox\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|solutionrelative:korblox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|solutionrelative:korblox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|c:\\users\\casey\\onedrive\\desktop\\testing\\mvctest\\korblox\\korblox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC375B46-A015-5794-0208-CE5687AB9AF7}|Korblox\\Korblox.csproj|solutionrelative:korblox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Korblox\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Korblox\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T15:02:40.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Korblox\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\appsettings.Development.json",
+              "RelativeToolTip": "Korblox\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T15:02:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\appsettings.json",
+              "RelativeDocumentMoniker": "Korblox\\appsettings.json",
+              "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\appsettings.json",
+              "RelativeToolTip": "Korblox\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T15:02:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Korblox\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Korblox\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T14:51:56.902Z",
+              "WhenOpened": "2026-10-08T14:54:55.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Korblox\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Casey\\OneDrive\\Desktop\\Testing\\mvctest\\Korblox\\Korblox\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Korblox\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB9AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-08T14:51:03.621Z",
+              "WhenOpened": "2026-10-08T14:54:55.177Z",
               "EditorCaption": ""
             }
           ]

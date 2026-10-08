@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Korblox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981f890c9cb5e78048978a27ce584908e934c14b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b27f5c9544fab23838bf91ad8deacd1a9a8f4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Korblox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Korblox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
